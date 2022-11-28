@@ -6,6 +6,8 @@ React, Redux-Toolkit, react-router-dom, Swiper, react-hook-form, react-loading-s
 
 Поддерживает регистрацию и авторизацию пользователя - json-server-auth. Валидация полей формы.
 
+Предполагает фильтрацию фильмов в зависимоти от подписки (статуса) пользователя. Для управления существует панель администратора сайта.
+
 ![2022-11-28_14-08-25](https://user-images.githubusercontent.com/101303690/204215627-1a9fb500-dc06-424c-8a4e-a2b2951a5950.png)
 
 ![2022-11-28_14-08-58](https://user-images.githubusercontent.com/101303690/204215664-ce217461-60e2-4792-a26d-82849067d823.png)
